@@ -12,4 +12,6 @@ Run run.py in the folder and get all the news infromation in your database --> s
 - See scraping --> utils --> requester.py for proxy settings. Proxy pool's main folder should be extracted just under scraping folder and I recommand using this: https://github.com/Python3WebSpider/ProxyPool
 - Set Selenium to headless mode under scraping --> utils --> requester.py --> jsHtmlLoader
 
-If you feel this intereting, very welcome to pull requests as I'm very troubled by by those deep learning stuff now. 改日再翻译中文。
+If you feel this intereting, very welcome to pull requests as I could be very troubled by those deep learning stuff in recent future. 
+
+改日再翻译中文。
